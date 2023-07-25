@@ -48,4 +48,13 @@
 
 .review {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande";
+}
+
+.hero_image {
+  background-image: linear-gradient(rgba(32, 32, 32, 0.5), rgba(32, 32, 32, 0.5)), url("./assets/Salam_project.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 55vh;
 }/*# sourceMappingURL=index.css.map */
