@@ -1,0 +1,44 @@
+.article__services {
+  color: grey;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+  padding-left: 20px;
+}
+.article__containerthird {
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+  border: 2px solid grey;
+  padding-right: 20px;
+  border-radius: 25px;
+  margin-right: 10px;
+}
+.article__containerfirst {
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+  border: 2px solid grey;
+  padding-right: 20px;
+  border-radius: 25px;
+  margin-right: 10px;
+}
+.article__containersecond {
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+  border: 2px solid grey;
+  padding-right: 20px;
+  border-radius: 25px;
+}
+.article__container--1 {
+  display: flex;
+  flex-direction: row;
+}
+.article__font {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+}
+.figure_container {
+  padding-top: 20px;
+}
+.review {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+}
